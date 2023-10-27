@@ -1,0 +1,23 @@
+header {
+    margin: 9px 0 0 0;
+    display: flex;
+}
+
+.logo-container {
+    margin: 0 auto 0 0;
+}
+
+.account-icon {
+    margin: auto 0 18px 0;
+    width: 28px;
+    height: 28px;
+    background: url(../../assets/img/account.svg) no-repeat;
+}
+
+.account-icon:hover {
+    background: url(../../assets/img/account_hover.svg) no-repeat;
+}
+
+.account-icon:active {
+    background: url(../../assets/img/account_active.svg) no-repeat;
+}
